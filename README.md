@@ -1,11 +1,9 @@
 # custom_chrome_extension
 Simple chrome extension
 
-##steps to add custom chrome extension
-
-<h2>create project folder</h2>
+<h2>##steps to add custom chrome extension</h2>
 <ol>
-  <li>make repo remote first into the folder</li>
+  <li>create project folder....make repo remote first into the folder</li>
   <li>make changes as per your requirements in html,css and js file</li>
   <li>go to chrome extension section</li>
   <li>enable developers option from extension tab right corner</li>
